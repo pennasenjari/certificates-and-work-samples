@@ -9,4 +9,4 @@ The app is programmed in React JS language.
 
 The app has a registered domain https://interpreter.fi. It has not been published yet and is protected by login and password, which you can obtain from pennasenjari@gmail.com for demonstration purposes.
 
-<img src="/interpreter.fi.jpg" alt="Interpereter.fi" style="height: 100px; width:100px;"/>
+<img src="interpreter.fi.jpg" alt="Interpereter.fi" style="height: 100px; width:100px;"/>
